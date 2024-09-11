@@ -4,7 +4,7 @@
 This project uses Stereo Matching techniques to estimate the depth of an image from two input stereo images.
 
 ## System Requirements
-- Python 3.x
+- Python 3.11
 - Python libraries: OpenCV, NumPy, Matplotlib, etc.
 
 ## Installation Guide
@@ -18,7 +18,10 @@ This project uses Stereo Matching techniques to estimate the depth of an image f
     ```bash
     pip install -r requirements.txt
     ```
-
+2. Run app:
+    ```bash
+    streamlit run app.py
+    ```
 ## Usage Guide
 1. Run the `Stereo Matching.ipynb` script in Jupyter Notebook or Jupyter Lab.
 2. Ensure you have two stereo images as input.
