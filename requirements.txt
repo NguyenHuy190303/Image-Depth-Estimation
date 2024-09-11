@@ -1,5 +1,5 @@
 streamlit==1.34.0
-opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
 scipy==1.14.0
 numpy>=1.18.5
 tqdm>=4.64.0
